@@ -6,10 +6,10 @@ export const BackLink = styled(Link)`
   margin-bottom: 20px;
   padding: 8px 16px;
   border: 1px solid white;
-  background-color: black;
+  background-color: white;
   border-radius: 4px;
   text-decoration: none;
-  color: orangered;
+  color: #300a89;
   font-weight: 500;
 
   transition: all 200ms ease-in-out;
@@ -17,7 +17,7 @@ export const BackLink = styled(Link)`
   :hover,
   :focus {
     color: white;
-    background-color: orangered;
+    background-color: #300a89;
   }
 `;
 
@@ -32,10 +32,10 @@ export const AddInfo = styled(NavLink)`
   margin-bottom: 20px;
   padding: 8px 16px;
   border: 1px solid white;
-  background-color: black;
+  background-color: white;
   border-radius: 4px;
   text-decoration: none;
-  color: orangered;
+  color: #300a89;
   font-weight: 500;
 
   transition: all 200ms ease-in-out;
@@ -43,6 +43,6 @@ export const AddInfo = styled(NavLink)`
   :hover,
   :focus {
     color: white;
-    background-color: orangered;
+    background-color: #300a89;
   }
 `;

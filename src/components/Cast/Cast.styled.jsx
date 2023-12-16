@@ -20,9 +20,9 @@ export const Img = styled.img`
 export const Name = styled.p`
   margin-bottom: 5px;
   font-weight: 500;
-  color: orangered;
+  color: #300a89;
 `;
 
 export const Character = styled.p`
-  color: orangered;
+  color: #300a89;
 `;

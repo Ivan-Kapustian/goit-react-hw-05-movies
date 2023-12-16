@@ -27,7 +27,7 @@ export const Description = styled.p`
   margin-bottom: 15px;
   font-size: 22px;
   font-weight: 500;
-  color: orangered;
+  color: #300a89;
 `;
 
 export const Text = styled.span`

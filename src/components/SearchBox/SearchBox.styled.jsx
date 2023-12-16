@@ -13,9 +13,9 @@ export const Input = styled.input`
   width: 300px;
   border-radius: 4px;
   font-size: 18px;
-  color: orangered;
+  color: #300a89;
   border: 1px solid white;
-  background-color: black;
+  background-color: #ffffff;
   :focus {
     box-shadow: 0px 0px 0px 1px white;
   }
@@ -29,14 +29,14 @@ export const Button = styled.button`
   border: 1px solid white;
   border-radius: 4px;
   text-decoration: none;
-  color: orangered;
-  background-color: black;
+  color: #300a89;
+  background-color: transparent;
   transition: all 200ms ease-in-out;
   cursor: pointer;
   :hover,
   :focus-visible {
     color: white;
-    background-color: orangered;
+    background-color: #300a89;
   }
   :focus {
     box-shadow: 0px 0px 0px 1px white;

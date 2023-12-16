@@ -7,7 +7,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(1, 1, 44);
+  background-color: rgb(77, 80, 81);
 }
 
 code {
@@ -41,5 +41,6 @@ a {
   --secondary: #858585;
   --bg: #ebf5fc;
   --main-shadow: -2px -2px 5px #ffffff, 3px 3px 5px rgba(0, 0, 0, 0.1);
-  --inset-shadow: inset -2px -2px 5px #ffffff, inset 3px 3px 5px rgba(0, 0, 0, 0.1);
+  --inset-shadow: inset -2px -2px 5px #ffffff,
+    inset 3px 3px 5px rgba(0, 0, 0, 0.1);
 }

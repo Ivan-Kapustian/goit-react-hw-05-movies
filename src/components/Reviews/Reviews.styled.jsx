@@ -11,7 +11,7 @@ export const Item = styled.li``;
 export const Author = styled.p`
   margin-bottom: 8px;
   font-size: 22px;
-  color: orangered;
+  color: #300a89;
 `;
 
 export const Text = styled.p`

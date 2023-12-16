@@ -29,13 +29,11 @@ export const MovieLink = styled(Link)`
     filter: grayscale(0);
   }
   &:hover p {
-    color: orangered;
+    color: #300a89;
   }
 `;
 
 export const MovieImg = styled.img`
-/* width: 100%;
-height: 350px; */
   margin-bottom: 5px;
   filter: grayscale(0.4);
   transition: all 200ms ease-in-out;
